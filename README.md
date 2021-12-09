@@ -4,7 +4,7 @@ Repository for the code of ScaleNet paper:
 
 ```text
 "ScaleNet: A Shallow Architecture for Scale Estimation".
-Axel Barroso-Laguna, Yurun Tian, and Krystian Mikolajczyk. arxiv 2022.
+Axel Barroso-Laguna, Yurun Tian, and Krystian Mikolajczyk. arxiv 2021.
 ```
 
 ## Prerequisite
