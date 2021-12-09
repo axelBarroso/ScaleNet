@@ -74,9 +74,9 @@ _camera_pose.py_ script is intended to provide a structure of our camera pose ex
 If you use this code or the provided training/testing pairs in your research, please cite our paper:
 
 ```bibtex
-@InProceedings{Barroso-Laguna2022_scale,
+@InProceedings{Barroso-Laguna2021_scale,
     author = {Barroso-Laguna, Axel and Tian, Yurun and Mikolajczyk, Krystian},
     title = {{ScaleNet: A Shallow Architecture for Scale Estimation}},
     booktitle = {Arxiv: },
-    year = {2022},
+    year = {2021},
 }
