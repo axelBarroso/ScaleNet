@@ -7,6 +7,9 @@ Repository for the code of ScaleNet paper:
 Axel Barroso-Laguna, Yurun Tian, and Krystian Mikolajczyk. arxiv 2021.
 ```
 
+[[Paper on arxiv](https://arxiv.org/abs/2112.04846)]
+
+
 ## Prerequisite
 
 Python 3.7 is required for running and training ScaleNet code. Use Conda to install the dependencies:
