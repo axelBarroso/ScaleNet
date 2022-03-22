@@ -20,7 +20,7 @@ conda activate scalenet_env
 conda install pytorch==1.2.0 -c pytorch
 conda install -c conda-forge tensorboardx opencv tqdm 
 conda install -c anaconda pandas 
-conda install -c pytorch torchvision 
+conda install -c torchvision 
 ```
 
 ## Scale estimation
