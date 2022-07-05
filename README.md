@@ -1,6 +1,6 @@
 # ScaleNet: A Shallow Architecture for Scale Estimation
 
-Repository for the code of ScaleNet paper:
+Repository for our CVPR'22 ScaleNet paper:
 
 ```text
 "ScaleNet: A Shallow Architecture for Scale Estimation".
@@ -77,9 +77,10 @@ _camera_pose.py_ script is intended to provide a structure of our camera pose ex
 If you use this code or the provided training/testing pairs in your research, please cite our paper:
 
 ```bibtex
-@InProceedings{Barroso-Laguna2021_scale,
-    author = {Barroso-Laguna, Axel and Tian, Yurun and Mikolajczyk, Krystian},
-    title = {{ScaleNet: A Shallow Architecture for Scale Estimation}},
-    booktitle = {Arxiv: },
-    year = {2021},
+@inproceedings{barroso2022scalenet,
+  title={ScaleNet: A Shallow Architecture for Scale Estimation},
+  author={Barroso-Laguna, Axel and Tian, Yurun and Mikolajczyk, Krystian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12808--12818},
+  year={2022}
 }
